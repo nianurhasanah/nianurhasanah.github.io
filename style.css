@@ -1,0 +1,26 @@
+.btn {
+  background-color: #ffd343;
+  border-radius: 15px;
+  font-family: "Poppins", sans-serif !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: "Poppins", sans-serif !important;
+  color: #000000;
+}
+
+.hero {
+  padding-top: 6rem;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.responsive {
+  width: 100%;
+}
